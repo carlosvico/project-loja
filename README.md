@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## link para a aplicação
 
 <a href="[url](https://carlosvico.github.io/project-loja/)">Projeto final</a>
+
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
